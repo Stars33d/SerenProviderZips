@@ -1,0 +1,7 @@
+{
+  "author": "Yoda",
+  "version":"1.00.045",
+  "name":"YodaScrapers",
+  "update_directory": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/",
+  "remote_meta": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/YodaScrapers.meta.json"
+}

@@ -1,0 +1,7 @@
+{
+  "author": "Anonymous",
+  "version":"1.8.0",
+  "name":"LambdaScrapers",
+  "update_directory": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/",
+  "remote_meta": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/LambdaScrapers.meta.json"
+}

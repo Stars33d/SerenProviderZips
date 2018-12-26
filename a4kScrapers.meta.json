@@ -1,0 +1,7 @@
+{
+  "author": "Unknown",
+  "version":"0.0.5",
+  "name":"a4kScrapers",
+  "update_directory": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/",
+  "remote_meta": "https://svn.code.sf.net/p/providerconverterrepo/code/trunk/SerenProviderZips/a4kScrapers.meta.json"
+}
